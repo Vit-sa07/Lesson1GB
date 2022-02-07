@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="calendarView" type="id" />
+    <item name="editText10" type="id" />
+    <item name="editText9" type="id" />
+    <item name="editText7" type="id" />
+    <item name="editText6" type="id" />
+    <item name="editText5" type="id" />
+    <item name="editText4" type="id" />
+    <item name="editText3" type="id" />
+    <item name="editText2" type="id" />
+    <item name="editText1" type="id" />
+</resources>
